@@ -1,7 +1,7 @@
 name: feed
 favicon: null
-layout_spectrum: 0.886416656896472
-typography_spectrum: 0.09896479384042323
+layout_spectrum: 0.17805
+typography_spectrum: 0.31536
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.370920303510502
-  lightness: 0.5461457138881087
-  saturation: 0.052729570772498846
-  rhythmicContrast: 0.6759251661133021
+    - '#010101'
+    - '#adadaf'
+    - '#767c88'
+    - '#5f3a1d'
+    - '#8b0000'
+  brandStrength: 0.375
+  lightness: 0.5625
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose: []
